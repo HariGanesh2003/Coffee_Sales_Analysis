@@ -73,7 +73,3 @@ Data-Driven Decisions: Provide leadership with actionable reports backed by robu
 
 # Author 
 ## Hari Ganesh S A
-
-For questions, feedback, or collaborations:
-
-Hari Ganesh
